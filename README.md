@@ -16,3 +16,5 @@ Soon :
 Suggestions for features are welcomed, --> ahmeddark369@gmail.com ,If you face a bug, drop it on my email.
 
 gG needs no permissions, but you need to place it in a directory where you have permissions. otherwise, use as Sudo [it will tell]
+
+The app has many bugs, they will be fixed soon.

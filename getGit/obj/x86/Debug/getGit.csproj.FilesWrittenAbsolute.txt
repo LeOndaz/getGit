@@ -1,0 +1,5 @@
+/home/invoker/gitGet/getGit/getGit/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/invoker/gitGet/getGit/getGit/bin/Debug/getGit.exe.mdb
+/home/invoker/gitGet/getGit/getGit/bin/Debug/getGit.exe
+/home/invoker/gitGet/getGit/getGit/obj/x86/Debug/getGit.exe
+/home/invoker/gitGet/getGit/getGit/obj/x86/Debug/getGit.exe.mdb

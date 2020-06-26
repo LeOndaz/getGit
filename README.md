@@ -1,4 +1,6 @@
 # getGit
+## Idk if this still works, I left it as a proof of "old enough" experience.
+
 gG is an app for downloading specific folders from GitHub without the need of cloning the whole repository.
 gG downloads specific folders from GitHub repositories with 2 simple steps.
 
